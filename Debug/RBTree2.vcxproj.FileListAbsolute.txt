@@ -1,2 +1,0 @@
-C:\Users\Artem\source\repos\RBTree2\Debug\RBTree2.exe
-C:\Users\Artem\source\repos\RBTree2\Debug\RBTree2.pdb

@@ -1,0 +1,2 @@
+C:\Users\Artem\source\repos\DataStruct6\Debug\DataStruct6.exe
+C:\Users\Artem\source\repos\DataStruct6\Debug\DataStruct6.pdb
