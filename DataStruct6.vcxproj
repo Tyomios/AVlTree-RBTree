@@ -140,14 +140,18 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="AVLTree.cpp" />
+    <ClCompile Include="AVLTreeMenu.cpp" />
     <ClCompile Include="Common.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="RBTree.cpp" />
+    <ClCompile Include="RBTreeMenu.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AVLTree.h" />
+    <ClInclude Include="AVLTreeMenu.h" />
     <ClInclude Include="Common.h" />
     <ClInclude Include="RBTree.h" />
+    <ClInclude Include="RBTreeMenu.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
